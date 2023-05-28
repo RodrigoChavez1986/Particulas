@@ -121,4 +121,4 @@ function updateCoords(e) {
   
   
   setCanvasSize();
-  window.addEventListener('resize', setCanvasSize, false);  
+  window.addEventListener('resize', setCanvasSize, false); 
