@@ -9,5 +9,5 @@ Aqui está el enlace para la ejecución del programa: https://rodrigochavez1986.
 Aquí esta el enlace a la wiki de JavaScript: https://github.com/RodrigoChavez1986/Particulas.wiki.git
 </br></strong>
 <br><strong>
-Ahora por último aquí esta la wiki del código HTML: https://github.com/RodrigoChavez1986/Particulas.wiki.git
+Ahora por último aquí esta la wiki del código HTML: https://github.com/RodrigoChavez1986/Particulas/wiki
 </br></strong>
